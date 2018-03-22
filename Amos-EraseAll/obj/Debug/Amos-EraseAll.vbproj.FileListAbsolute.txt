@@ -1,0 +1,5 @@
+C:\Users\johnh\AppData\Local\AmosDevelopment\Amos\25\Plugins\Amos-EraseAll.dll
+C:\Users\johnh\AppData\Local\AmosDevelopment\Amos\25\Plugins\Amos-EraseAll.pdb
+C:\Users\johnh\Desktop\Amos-EraseAll\Amos-EraseAll\obj\Debug\Amos-EraseAll.vbprojResolveAssemblyReference.cache
+C:\Users\johnh\Desktop\Amos-EraseAll\Amos-EraseAll\obj\Debug\Amos-EraseAll.dll
+C:\Users\johnh\Desktop\Amos-EraseAll\Amos-EraseAll\obj\Debug\Amos-EraseAll.pdb
